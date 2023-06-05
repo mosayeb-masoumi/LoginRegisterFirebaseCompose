@@ -21,6 +21,13 @@ class MainActivity : ComponentActivity() {
                 ) {
 
                     RegisterLogin()
+
+                    //sources
+//                    https://www.youtube.com/watch?v=PeUERQJnHdI
+//                    https://www.youtube.com/watch?v=n9IrkANVGxU
+//                    https://www.youtube.com/watch?v=peSfaIhKgfw
+//                    https://www.youtube.com/watch?v=008f7IUVYDQ
+ //                   https://www.youtube.com/watch?v=KOI7fS7k8Y0&t=1s   // setup firebase
                 }
             }
         }
